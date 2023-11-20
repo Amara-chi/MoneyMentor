@@ -1,0 +1,12 @@
+body{
+    background-color: white;
+}
+
+.white{
+    width: 100%;
+    /* background-color: antiquewhite; */
+}
+
+.white.active{
+    background-color: rgba(107, 105, 93, 0.452);
+}
