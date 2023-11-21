@@ -42,7 +42,7 @@ nav {
     top: 0px;
     z-index: 1000;
 
-    
+    overflow-x: hidden;
     
 }
 
@@ -583,8 +583,8 @@ input::placeholder {
     nav {
         justify-content: space-between;
         width: 100%;
-    
-    
+        
+overflow-x: hidden;    
     
     }
     .blue{
