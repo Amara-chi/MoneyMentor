@@ -40,9 +40,7 @@ nav {
     gap: 20%;
     position: sticky;
     top: 0px;
-    z-index: 1000;
-
-    overflow-x: hidden;
+    z-index: 1000;
     
 }
 
@@ -552,7 +550,9 @@ input::placeholder {
 
 
 
-
+body{
+     overflow-x: hidden;
+}
 
 
 
