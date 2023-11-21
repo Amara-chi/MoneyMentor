@@ -41,7 +41,7 @@ nav {
     position: sticky;
     top: 0px;
     z-index: 1000;
-    overflow:hidden;
+    
 }
 
 nav a {
