@@ -40,7 +40,8 @@ nav {
     gap: 20%;
     position: sticky;
     top: 0px;
-    z-index: 1000;
+    z-index: 1000;
+
     
 }
 
@@ -579,7 +580,8 @@ input::placeholder {
     nav {
         justify-content: space-between;
         width: 100%;
-        
+        
+
     
     }
     .blue{
