@@ -25,7 +25,11 @@ body {
     --grey:#6e8cb3;
     --grey1:#899aaf;
     --grey2:#383d44;
-} 
+}
+
+body, html{
+     overflow-x: hidden;
+}
 
 nav {
     display: flex;
